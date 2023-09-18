@@ -5,20 +5,3 @@
 :root{
 	background-color: #FFF7EC;
 }
-
-.vl {
-	border-left: 6px solid green;
-	height: 500px;
-	position: absolute;
-	left: 50%;
-	margin-left: -3px;
-	top: 0;
-  }
-  
-  .semi-circle {
-	width: 42rem;
-	height: 20rem;
-	
-	border: 1px solid #48abe0;
-	border-radius: 0 0 20rem 20rem;
-  }
